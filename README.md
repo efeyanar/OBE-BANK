@@ -2,6 +2,7 @@ Bu uygulama, uygun veritabanının kurulu olmadığı cihazlarda çalışmayacak
 Veritabanı için 'banka' isimli bir veritabanı oluşturulmalı içine aşağıdaki script yazılmalıdır.
 
 1- CREATE DATABASE banka
+
 2- create table kullanici_bilgi (
 TC varchar(max) not null,
 kullanici_adi  varchar(max) not null,
