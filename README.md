@@ -38,6 +38,7 @@ This app will not work on devices that do not have the appropriate database inst
 A database named 'banka' should be created for the database of the application and the following script should be written into it.
 
 1- CREATE DATABASE banka
+
 2- create table kullanici_bilgi (
 TC varchar(max) not null,
 kullanici_adi  varchar(max) not null,
